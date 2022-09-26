@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">
+  <a href="https://kyleholzinger.dev">
+    📖&nbsp;&nbsp;Blog
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-<!--
-**keyboard-clacker/keyboard-clacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://twitter.com/kyleholzinger">
+    💬&nbsp;&nbsp;Twitter
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.instagram.com/kyleholzinger">
+    📸&nbsp;&nbsp;Instagram
+  </a>
+</h3>
