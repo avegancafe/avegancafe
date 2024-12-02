@@ -3,8 +3,8 @@
     📖&nbsp;&nbsp;Blog
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-  <a href="https://twitter.com/kyleholzinger">
-    💬&nbsp;&nbsp;Twitter
+  <a href="[https://bsky.social/avegancafe](https://bsky.app/profile/avegancafe.github.io)">
+    💬&nbsp;&nbsp;BlueSky
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/kyleholzinger">
