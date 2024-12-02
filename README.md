@@ -3,7 +3,7 @@
     📖&nbsp;&nbsp;Blog
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-  <a href="[https://bsky.social/avegancafe](https://bsky.app/profile/avegancafe.github.io)">
+  <a href="https://bsky.app/profile/avegancafe.github.io">
     💬&nbsp;&nbsp;BlueSky
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
